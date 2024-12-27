@@ -1,1 +1,1 @@
-# contoso-pets
+# Contoso Pets
